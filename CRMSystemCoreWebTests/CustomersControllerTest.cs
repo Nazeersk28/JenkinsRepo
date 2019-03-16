@@ -24,10 +24,10 @@ namespace CRMSystemCoreWebTests
                     CustomerId = 1,
                     CustomerName = "Northwind",
                     Address = "Bangalore",
-                    CreditLimit = 23000,
-                    ActiveStatus = true,
-                    EmailId = "info@email.com",
-                    PhoneNumber = "080-3498349834",
+                    Credit = 23000,
+                    Status = true,
+                    Email = "info@email.com",
+                    Phone = "080-3498349834",
                     Remarks = "Simple Customer Record"
                 }
             };

@@ -14,7 +14,7 @@ namespace Yokogawa.Libraries.Web.Controllers.Impl
     /// </summary>
     [Produces("application/json")]
     [Route("api/customers")]
-    [Authorize]
+    // [Authorize]
     public class CustomersController : Controller, ICustomersController
     {
         private const string INVALID_CUSTOMERS_BUSINESS_SERVICE = @"Invalid Customers Business Service Specified!";

@@ -10,7 +10,7 @@ namespace CRMSystemCoreWeb.Controllers
 {
     [Produces("application/json")]
     [Route("api/Values")]
-    [Authorize]
+    //[Authorize]
     public class ValuesController : Controller
     {
         public IActionResult GetValues()

@@ -901,10 +901,12 @@
   },
   "libraries": {
     "Microsoft.CSharp/4.4.0": {
-      "sha512": "vvVR/B08YVghQ4jHEloxqw2ZWzEGE1AOA5E0DioUM3ujbXz6FD3AfB/0Jl2ohJPd0nXYGwmPe1En6HTsSriq1A==",
+      "sha512": "ShGjgRL3UHUXcoPSlq8jDB6b+9WHo4n8VcY9ex7egt6kuHFuK3Z6BUN9ClF3Y8dR1yIoaRkHPQBfX/IH5i/YXg==",
       "type": "package",
       "path": "microsoft.csharp/4.4.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -1031,10 +1033,12 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection/2.0.0": {
-      "sha512": "wakg18gHYiUL1pcjjyZuYk6OvDpbSw1E7IWxm78TMepsr+gQ8W0tWzuRm0q/9RFblngwPwo15rrgZSUV51W5Iw==",
+      "sha512": "V6xeuEEpIIygDHtOtJ+0X0qkKtVSUS1+kwOC3O4pH0depJf8AfofGo8hanOxoRgooj7WmTtPcgOIjwAteEe28A==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.xml",
         "microsoft.extensions.dependencyinjection.2.0.0.nupkg.sha512",
@@ -1042,10 +1046,12 @@
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions/2.0.0": {
-      "sha512": "eUdJ0Q/GfVyUJc0Jal5L1QZLceL78pvEM9wEKcHeI24KorqMDoVX+gWsMGLulQMfOwsUaPtkpQM2pFERTzSfSg==",
+      "sha512": "P4dK3DZQFsp7fFzkBu9H9jesBj0KB3O9c50n9FeAOIF+A8aQKBRj63luC9gPqvcedNdMfYQoEUe5dLps1sqvuA==",
       "type": "package",
       "path": "microsoft.extensions.dependencyinjection.abstractions/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
         "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
         "microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
@@ -1086,10 +1092,12 @@
       ]
     },
     "Microsoft.Extensions.Primitives/2.0.0": {
-      "sha512": "ukg53qNlqTrK38WA30b5qhw0GD7y3jdI9PHHASjdKyTcBHTevFM2o23tyk3pWCgAV27Bbkm+CPQ2zUe1ZOuYSA==",
+      "sha512": "AMyFwlYdEY4GjjCFGQhUr1/0ZZyYyNjjpCx8Vwfy+Ylxv8pn649uaX5J2L7aknEtQY5+XA+TSfxRSBCgy68yvQ==",
       "type": "package",
       "path": "microsoft.extensions.primitives/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.dll",
         "lib/netstandard2.0/Microsoft.Extensions.Primitives.xml",
         "microsoft.extensions.primitives.2.0.0.nupkg.sha512",
@@ -1097,10 +1105,12 @@
       ]
     },
     "Microsoft.NETCore.App/2.0.0": {
-      "sha512": "/mzXF+UtZef+VpzzN88EpvFq5U6z4rj54ZMq/J968H6pcvyLOmcupmTRpJ3CJm8ILoCGh9WI7qpDdiKtuzswrQ==",
+      "sha512": "aEj44yEbsK+XlDwPNSM7CeaYDg33NMk492y2kFRIOMPOVmXvXNO0LTDm8lUhS4Jlm2uNFsIDDH4ggt9lnSDejQ==",
       "type": "package",
       "path": "microsoft.netcore.app/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "Microsoft.NETCore.App.versions.txt",
         "THIRD-PARTY-NOTICES.TXT",
@@ -1375,10 +1385,12 @@
       ]
     },
     "Microsoft.NETCore.DotNetAppHost/2.0.0": {
-      "sha512": "L4GGkcI/Mxl8PKLRpFdGmLb5oI8sGIR05bDTGkzCoamAjdUl1Zhkov2swjEsZvKYT8kkdiz39LtwyGYuCJxm1A==",
+      "sha512": "dYQNVWNBsO9LldqAyJTt/wYUq2BScXq3ENBaNUjELS3sT53mwrgyPpmoLHsE7H10RzYOHEl5G0sg/jpZGlIAzA==",
       "type": "package",
       "path": "microsoft.netcore.dotnetapphost/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
@@ -1387,10 +1399,12 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostPolicy/2.0.0": {
-      "sha512": "rm7mMn0A93fwyAwVhbyOCcPuu2hZNL0A0dAur9sNG9pEkONPfCEQeF7m2mC8KpqZO0Ol6tpV5J0AF3HTXT3GXA==",
+      "sha512": "RAMrQqBFMiF4dbpHJEvcwwXG+ISoKRck8zXlfr49waPc7xllEpv/ANHi4c3pCTkVIdNNSdDYf71YjbkaRSHJgg==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostpolicy/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
@@ -1399,10 +1413,12 @@
       ]
     },
     "Microsoft.NETCore.DotNetHostResolver/2.0.0": {
-      "sha512": "uBbjpeSrwsaTCADZCzRk+3aBzNnMqkC4zftJWBsL+Zk+8u+W+/lMb2thM5Y4hiVrv1YQg9t6dKldXzOKkY+pQw==",
+      "sha512": "LrZ1AcFJF7+da03Is+5RKdqjnDVNnoi1MBRAi4LRif3uO9rRntfNUezeNcG/OO/yGYzyEwGJkioyw8ZWGJiKWg==",
       "type": "package",
       "path": "microsoft.netcore.dotnethostresolver/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
@@ -1439,10 +1455,12 @@
       ]
     },
     "Microsoft.Win32.Registry/4.4.0": {
-      "sha512": "dA36TlNVn/XfrZtmf0fiI/z1nd3Wfp2QVzTdj26pqgP9LFWq0i1hYEUAW50xUjGFYn1+/cP3KGuxT2Yn1OUNBQ==",
+      "sha512": "LsK5GyV3JEhOJGigiVOQVkWPHHWXNJrwK/HrILIN1WhO3LJPW7b69qWtK5sDMp68Uw4cF21nZr5ylRc5s8iawg==",
       "type": "package",
       "path": "microsoft.win32.registry/4.4.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net46/Microsoft.Win32.Registry.dll",
@@ -1477,10 +1495,12 @@
       ]
     },
     "NETStandard.Library/2.0.0": {
-      "sha512": "7jnbRU+L08FXKMxqUflxEXtVymWvNOrS8yHgu9s6EM8Anr6T/wIX4nZ08j/u3Asz+tCufp3YVwFSEvFTPYmBPA==",
+      "sha512": "49ZAcrnNn56GIJwGoiaI7NpwcEJ8mjUyfSqVYIJMDhOBzPe8HSHS74swF2H0v8fzj7pxLfcYjS9P5PdIqsTQxw==",
       "type": "package",
       "path": "netstandard.library/2.0.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/NETStandard.Library.targets",
@@ -1605,10 +1625,12 @@
       ]
     },
     "Remotion.Linq/2.1.1": {
-      "sha512": "IJn0BqkvwEDpP+2qjvci7n4/a9f7DhKESLWb2/uG4xQh3rTkGTBUz69bI4IivCoKkTFAqjXxYDZw2K/npohjsw==",
+      "sha512": "m9y+SLyqYEDcc3lnqAHO2VOsdIeDuO02IuBXeo7CIDve2J3ahXQRieZt2DuoXgCnWW83PgN6+8CQsaORlwAMXw==",
       "type": "package",
       "path": "remotion.linq/2.1.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net35/Remotion.Linq.XML",
         "lib/net35/Remotion.Linq.dll",
         "lib/net40/Remotion.Linq.XML",
@@ -1745,10 +1767,12 @@
       ]
     },
     "System.Collections.Immutable/1.4.0": {
-      "sha512": "71hw5RUJRu5+q/geUY69gpXD8Upd12cH+F3MwpXV2zle7Bqqkrmc1JblOTuvUcgmdnUtQvBlV5e1d6RH+H2lvA==",
+      "sha512": "tmNm+CvE8Wzt3dtghUNi9ur8R1N2EUltwEBQ4nr70nhzUI9wrR1fJw0rtydtFCUktXVJHPcF5hy8s8ixVmx+8w==",
       "type": "package",
       "path": "system.collections.immutable/1.4.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netcoreapp2.0/_._",
@@ -1766,10 +1790,12 @@
       ]
     },
     "System.ComponentModel.Annotations/4.4.0": {
-      "sha512": "29K3DQ+IGU7LBaMjTo7SI7T7X/tsMtLvz1p56LJ556Iu0Dw3pKZw5g8yCYCWMRxrOF0Hr0FU0FwW0o42y2sb3A==",
+      "sha512": "wohleA9W059afFBm49G4cNZJiPK5KShuC+fWxMp3wiugD/aYL7n9zmtvv8wQlh8brOca0GGROSBnz77dtwJbXQ==",
       "type": "package",
       "path": "system.componentmodel.annotations/4.4.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -1983,10 +2009,12 @@
       ]
     },
     "System.Diagnostics.DiagnosticSource/4.4.1": {
-      "sha512": "U/KcC19fyLsPN1GLmeU2zQq15MMVcPwMOYPADVo1+WIoJpvMHxrzvl+BLLZwTEZSneGwaPFZ0aWr0nJ7B7LSdA==",
+      "sha512": "HpRPX7MklDJFmQa62J8YCE6ErlWbxuIYypvaH7H4LVWgbd8s0UcfMs6E6BQns1VfWdgXgS7gjGC24v8agyEvOg==",
       "type": "package",
       "path": "system.diagnostics.diagnosticsource/4.4.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net45/System.Diagnostics.DiagnosticSource.dll",
@@ -2074,10 +2102,12 @@
       ]
     },
     "System.Interactive.Async/3.1.1": {
-      "sha512": "hZccYiIE5RS1/J9Tb/BNtosAGVggdlsJm4Ojdu+gDV0p4AIi+LUfUogMKkRacljQEJd2AG6vYzvcjhQFkqoZmw==",
+      "sha512": "x9y2omkjEudKbIVuhUzeWw7ZlouEzpk4W98woCEq1lq9gJxERBKRKDTHF5JPEws9E0f4/Uei/2vLxEy1IrfmMg==",
       "type": "package",
       "path": "system.interactive.async/3.1.1",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "lib/net45/System.Interactive.Async.dll",
         "lib/net45/System.Interactive.Async.xml",
         "lib/net46/System.Interactive.Async.dll",
@@ -2925,10 +2955,12 @@
       ]
     },
     "System.Runtime.CompilerServices.Unsafe/4.4.0": {
-      "sha512": "9dLLuBxr5GNmOfl2jSMcsHuteEg32BEfUotmmUkmZjpR3RpVHE8YQwt0ow3p6prwA1ME8WqDVZqrr8z6H8G+Kw==",
+      "sha512": "oXzVVwwsT4sfWRzOEKaHn6GLleNZ7gGTjk+gHgLuXj3M61p3TjoAvWmZDJDeDuf0WX8UW4ew0MTJbJOmCSZrVA==",
       "type": "package",
       "path": "system.runtime.compilerservices.unsafe/4.4.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/netstandard1.0/System.Runtime.CompilerServices.Unsafe.dll",
@@ -3025,10 +3057,12 @@
       ]
     },
     "System.Security.AccessControl/4.4.0": {
-      "sha512": "2NRFPX/V81ucKQmqNgGBZrKGH/5ejsvivSGMRum0SMgPnJxwhuNkzVS1+7gC3R2X0f57CtwrPrXPPSe6nOp82g==",
+      "sha512": "UPF+s4KctOCpk7dpBe3QtZ1AzFEHKdhOtiNDLxGnD/nxKsVbsow5OClTy8c7yOObw/Evbv95xRwZfYZ4wLV4fA==",
       "type": "package",
       "path": "system.security.accesscontrol/4.4.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net46/System.Security.AccessControl.dll",
@@ -3063,10 +3097,12 @@
       ]
     },
     "System.Security.Principal.Windows/4.4.0": {
-      "sha512": "pP+AOzt1o3jESOuLmf52YQTF7H3Ng9hTnrOESQiqsnl2IbBh1HInsAMHYtoh75iUYV0OIkHmjvveraYB6zM97w==",
+      "sha512": "yNxhQZ5oJb2Q7VqNj1Af6e+9KXzHcXJdv+eE+1Lp2+FYBwmVLQs2LfQpeSfz5RxorwlV0EpNbkLatPScb+XEWw==",
       "type": "package",
       "path": "system.security.principal.windows/4.4.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/net46/System.Security.Principal.Windows.dll",
@@ -3167,10 +3203,12 @@
       ]
     },
     "System.Text.Encoding.CodePages/4.4.0": {
-      "sha512": "6JX7ZdaceBiLKLkYt8zJcp4xTJd1uYyXXEkPw6mnlUIjh1gZPIVKPtRXPmY5kLf6DwZmf5YLwR3QUrRonl7l0A==",
+      "sha512": "epF1P00AFbqPy5jZx3fpEn5qwlBDZ+dck71xYc/jLibfY6BtoFKOqoj84YHcQWV9HcWb7M13aVJ61XCdK8/3XA==",
       "type": "package",
       "path": "system.text.encoding.codepages/4.4.0",
       "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "lib/MonoAndroid10/_._",
@@ -3369,30 +3407,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ramkumar\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
+    "C:\\Users\\iomeg\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "D:\\Practices\\Core\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Impl\\Yokogawa.Libraries.ORM.Impl.csproj",
+      "projectUniqueName": "C:\\DevOps\\K8S\\Demonstrations\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Impl\\Yokogawa.Libraries.ORM.Impl.csproj",
       "projectName": "Yokogawa.Libraries.ORM.Impl",
-      "projectPath": "D:\\Practices\\Core\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Impl\\Yokogawa.Libraries.ORM.Impl.csproj",
-      "packagesPath": "C:\\Users\\Ramkumar\\.nuget\\packages\\",
-      "outputPath": "D:\\Practices\\Core\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Impl\\obj\\",
+      "projectPath": "C:\\DevOps\\K8S\\Demonstrations\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Impl\\Yokogawa.Libraries.ORM.Impl.csproj",
+      "packagesPath": "C:\\Users\\iomeg\\.nuget\\packages\\",
+      "outputPath": "C:\\DevOps\\K8S\\Demonstrations\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Impl\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Ramkumar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\iomeg\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\ServiceFabricSDK.config"
       ],
       "originalTargetFrameworks": [
@@ -3400,17 +3432,17 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages\\": {},
+        "C:\\Program Files\\Microsoft SDKs\\Service Fabric\\packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "D:\\Practices\\Core\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.Models\\Yokogawa.Libraries.Models.csproj": {
-              "projectPath": "D:\\Practices\\Core\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.Models\\Yokogawa.Libraries.Models.csproj"
+            "C:\\DevOps\\K8S\\Demonstrations\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.Models\\Yokogawa.Libraries.Models.csproj": {
+              "projectPath": "C:\\DevOps\\K8S\\Demonstrations\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.Models\\Yokogawa.Libraries.Models.csproj"
             },
-            "D:\\Practices\\Core\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Interfaces\\Yokogawa.Libraries.ORM.Interfaces.csproj": {
-              "projectPath": "D:\\Practices\\Core\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Interfaces\\Yokogawa.Libraries.ORM.Interfaces.csproj"
+            "C:\\DevOps\\K8S\\Demonstrations\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Interfaces\\Yokogawa.Libraries.ORM.Interfaces.csproj": {
+              "projectPath": "C:\\DevOps\\K8S\\Demonstrations\\ProfessionalCaseStudyCoreSolution\\Yokogawa.Libraries.ORM.Interfaces\\Yokogawa.Libraries.ORM.Interfaces.csproj"
             }
           }
         }

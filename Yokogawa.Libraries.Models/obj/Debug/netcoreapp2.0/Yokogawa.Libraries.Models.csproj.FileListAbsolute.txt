@@ -16,3 +16,11 @@ D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\ob
 D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
 D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
 D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.csprojResolveAssemblyReference.cache
+C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.deps.json
+C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
+C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
+C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
+C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
+C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.AssemblyInfo.cs
+C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
+C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb

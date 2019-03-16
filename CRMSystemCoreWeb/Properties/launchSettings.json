@@ -13,7 +13,7 @@
       "launchBrowser": true,
       "launchUrl": "api/values",
       "environmentVariables": {
-        "CRMSystemDBConnectionString": "data source=.;initial catalog=CRMSystemDB;User Id=sa;Password=Prestige;",
+        "CRMSystemDBConnectionString": "ZGF0YSBzb3VyY2U9aW9tZWdhc3Fsc2VydmVydjUuZGF0YWJhc2Uud2luZG93cy5uZXQ7dXNlciBpZD1pb21lZ2FhZG1pbjtwYXNzd29yZD1QcmVzdGlnZTEyMztpbml0aWFsIGNhdGFsb2c9aW9tZWdhc3FsZGF0YWJhc2V2NTs=",
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
