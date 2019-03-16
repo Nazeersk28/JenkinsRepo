@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.AspNetCore.Mvc;
 using Yokogawa.Libraries.Business.Interfaces;
 using Yokogawa.Libraries.Models;
@@ -15,6 +16,7 @@ namespace Yokogawa.Libraries.Web.Controllers.Impl
     [Produces("application/json")]
     [Route("api/customers")]
     // [Authorize]
+    [EnableCors("_myAllowSpecificOrigins")]
     public class CustomersController : Controller, ICustomersController
     {
         private const string INVALID_CUSTOMERS_BUSINESS_SERVICE = @"Invalid Customers Business Service Specified!";

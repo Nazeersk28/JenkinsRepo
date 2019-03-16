@@ -32,6 +32,8 @@ namespace CRMSystemCoreWeb
 
         public IConfiguration Configuration { get; }
 
+        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
@@ -54,6 +56,19 @@ namespace CRMSystemCoreWeb
                     });
 
                 services.AddMvc();
+
+
+
+                services.AddCors(options =>
+                {
+                    options.AddPolicy(MyAllowSpecificOrigins,
+                    builder =>
+                    {
+                        builder.WithOrigins("*")
+                                        .AllowAnyHeader()
+                                        .AllowAnyMethod();
+                    });
+                });
 
                 //services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
                 //    .AddJwtBearer(
@@ -107,6 +122,8 @@ namespace CRMSystemCoreWeb
             // app.UseAuthentication();
 
             app.UseMvc();
+
+            app.UseCors(MyAllowSpecificOrigins);
         }
     }
 }
