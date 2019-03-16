@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Yokogawa.Libraries.Models\Yokogawa.Libraries.Models.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.ORM.Interfaces\Yokogawa.Libraries.ORM.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

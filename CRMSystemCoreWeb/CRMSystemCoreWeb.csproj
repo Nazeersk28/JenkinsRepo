@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile>bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.xml</DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="2.0.1" />
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="2.0.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="1.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <DotNetCliToolReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Tools" Version="2.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Yokogawa.Libraries.Business.Impl\Yokogawa.Libraries.Business.Impl.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.Business.Interfaces\Yokogawa.Libraries.Business.Interfaces.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.Models\Yokogawa.Libraries.Models.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.ORM.Impl\Yokogawa.Libraries.ORM.Impl.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.ORM.Interfaces\Yokogawa.Libraries.ORM.Interfaces.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.Repositories.Impl\Yokogawa.Libraries.Repositories.Impl.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.Repositories.Interfaces\Yokogawa.Libraries.Repositories.Interfaces.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.Web.Controllers.Impl\Yokogawa.Libraries.Web.Controllers.Impl.csproj" />
+    <ProjectReference Include="..\Yokogawa.Libraries.Web.Controllers.Interfaces\Yokogawa.Libraries.Web.Controllers.Interfaces.csproj" />
+  </ItemGroup>
+
+</Project>

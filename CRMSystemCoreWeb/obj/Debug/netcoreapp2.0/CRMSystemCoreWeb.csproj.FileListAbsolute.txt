@@ -1,0 +1,60 @@
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.deps.json
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.runtimeconfig.json
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.runtimeconfig.dev.json
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.csprojResolveAssemblyReference.cache
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.csproj.CoreCompileInputs.cache
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.AssemblyInfoInputs.cache
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.AssemblyInfo.cs
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.xml
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.deps.json
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.runtimeconfig.json
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.runtimeconfig.dev.json
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.xml
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.csprojResolveAssemblyReference.cache
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.csproj.CoreCompileInputs.cache
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.AssemblyInfoInputs.cache
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.AssemblyInfo.cs
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWeb\obj\Debug\netcoreapp2.0\CRMSystemCoreWeb.pdb

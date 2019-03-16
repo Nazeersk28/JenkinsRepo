@@ -1,0 +1,22 @@
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.deps.json
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.csprojResolveAssemblyReference.cache
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.csproj.CoreCompileInputs.cache
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.AssemblyInfoInputs.cache
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.AssemblyInfo.cs
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.deps.json
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.csprojResolveAssemblyReference.cache
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.csproj.CoreCompileInputs.cache
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.AssemblyInfoInputs.cache
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.AssemblyInfo.cs
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
