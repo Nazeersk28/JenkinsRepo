@@ -35,4 +35,10 @@
     <ProjectReference Include="..\Yokogawa.Libraries.Web.Controllers.Interfaces\Yokogawa.Libraries.Web.Controllers.Interfaces.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Update="Yokogawa.Libraries.Web.Controllers.Impl.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
 </Project>
