@@ -2,7 +2,7 @@
 
 set -x 
 
-chmod 700 ./jenkins/scripts/*.sh
+sudo chmod 700 ./jenkins/scripts/*.sh
 
 set +x
 
