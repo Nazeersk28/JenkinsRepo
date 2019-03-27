@@ -1,3 +1,1 @@
 # Learning DevOps Workflow with VSTS
-
-## Checking how changes are propagated ...
