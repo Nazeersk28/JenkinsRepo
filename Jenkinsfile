@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Initialize') {
       steps {
-        sh './jenkins/scripts/init.sh'
+        sh 'bash ./jenkins/scripts/init.sh'
       }
     }
   }
