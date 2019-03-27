@@ -9,5 +9,6 @@ pipeline {
   }
   environment {
     CONTAINER_NAME = 'restservicesv2'
+    HOME = '.'
   }
 }
