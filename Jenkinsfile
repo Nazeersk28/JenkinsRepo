@@ -33,6 +33,13 @@ pipeline {
         sh 'bash ./jenkins/scripts/push-image.sh'
       }
     }
+    stage('Release Local') {
+      steps {
+        sh 'bash ./jenkins/scripts/run-container.sh'
+        input 'Do you see REST services running in the port 9090 on the Host?'
+        sh 'bash ./jenkins/scripts/kill-the-container.sh'
+      }
+    }
   }
   environment {
     CONTAINER_NAME = 'restservicesv2'
