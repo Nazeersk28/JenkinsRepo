@@ -11,7 +11,17 @@
                     "hostPort": 9090, 
                     "protocol": "tcp"
                 }
-            ], 
+            ],
+	    "environment":[
+		    {
+			    "name":"ASPNETCORE_URLS",
+			    "value":"http://*:80"
+		    },
+		    {
+			    "name":"CRMSystemDBConnectionString",
+			    "value":"ConnectionString"
+		    },
+	    ],
             "essential": true
 		}
     ], 
