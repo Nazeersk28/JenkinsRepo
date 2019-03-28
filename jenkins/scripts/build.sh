@@ -2,9 +2,9 @@
 
 set -x
 
-dotnet restore
+#dotnet restore
 
-echo "Restore Completed Successfully ... for Build Id ${BUILD_ID}"
+#echo "Restore Completed Successfully ... for Build Id ${BUILD_ID}"
 
 dotnet build
 
