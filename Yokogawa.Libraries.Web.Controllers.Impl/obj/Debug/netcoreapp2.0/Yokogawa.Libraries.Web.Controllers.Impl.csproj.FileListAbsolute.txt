@@ -1,48 +1,65 @@
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.deps.json
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.csprojResolveAssemblyReference.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.csproj.CoreCompileInputs.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfoInputs.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfo.cs
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.xml
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.deps.json
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.csprojResolveAssemblyReference.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.csproj.CoreCompileInputs.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfoInputs.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfo.cs
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.xml
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.deps.json
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.csprojAssemblyReference.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.csproj.CoreCompileInputs.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfoInputs.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfo.cs
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.csproj.CopyComplete
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Web.Controllers.Impl\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.deps.json
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csprojResolveAssemblyReference.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csproj.CoreCompileInputs.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfoInputs.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfo.cs
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.xml
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.deps.json
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csprojResolveAssemblyReference.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csproj.CoreCompileInputs.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfoInputs.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfo.cs
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.xml
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.deps.json
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csprojAssemblyReference.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csproj.CoreCompileInputs.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfoInputs.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfo.cs
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csproj.CopyComplete
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.xml
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.deps.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csprojAssemblyReference.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csproj.CoreCompileInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfoInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.AssemblyInfo.cs
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.csproj.CopyComplete
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Impl/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb

@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Yokogawa.Libraries.Web.Controllers.Impl</name>
+    </assembly>
+    <members>
+        <member name="T:Yokogawa.Libraries.Web.Controllers.Impl.CustomersController">
+            <summary>
+            CRM System Service Controller
+            </summary>
+        </member>
+        <member name="M:Yokogawa.Libraries.Web.Controllers.Impl.CustomersController.#ctor(Yokogawa.Libraries.Business.Interfaces.ICustomersBusinessService)">
+            <summary>
+            Constructor that dependes on Customers Business Service
+            </summary>
+            <param name="customersBusinessService">Injected Customers Business Service Implementation</param>
+        </member>
+        <member name="M:Yokogawa.Libraries.Web.Controllers.Impl.CustomersController.Dispose">
+            <summary>
+            Cleaning up of Resources used by this object.
+            </summary>
+        </member>
+        <member name="M:Yokogawa.Libraries.Web.Controllers.Impl.CustomersController.GetCustomer(System.Int32)">
+            <summary>
+            Gets Customer Details by Customer Id
+            </summary>
+            <param name="customerId">Specific Customer Id (Integer)</param>
+            <returns>Returns complete customer object</returns>
+        </member>
+        <member name="M:Yokogawa.Libraries.Web.Controllers.Impl.CustomersController.GetCustomers">
+            <summary>
+            Gets all Customer Records
+            </summary>
+            <returns>Array of Customer Records</returns>
+        </member>
+        <member name="M:Yokogawa.Libraries.Web.Controllers.Impl.CustomersController.SaveCustomer(Yokogawa.Libraries.Models.Customer)">
+            <summary>
+            Saves Customer Records into the CRM System Database
+            </summary>
+            <param name="customer">Customer Record</param>
+            <returns>Status of the Operation</returns>
+        </member>
+        <member name="M:Yokogawa.Libraries.Web.Controllers.Impl.CustomersController.SearchCustomers(System.String)">
+            <summary>
+            Searches customer records by Customer Name
+            </summary>
+            <param name="customerName">Search String</param>
+            <returns>Array of Matching Customer Records</returns>
+        </member>
+    </members>
+</doc>

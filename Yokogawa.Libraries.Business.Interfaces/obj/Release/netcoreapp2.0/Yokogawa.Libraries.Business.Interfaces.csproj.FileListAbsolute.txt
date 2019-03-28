@@ -1,0 +1,12 @@
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.deps.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.csprojAssemblyReference.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.csproj.CoreCompileInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.AssemblyInfoInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.AssemblyInfo.cs
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.csproj.CopyComplete
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Business.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb

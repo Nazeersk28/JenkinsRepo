@@ -1,0 +1,12 @@
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.deps.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.csproj.CoreCompileInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.AssemblyInfoInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.AssemblyInfo.cs
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.csproj.CopyComplete
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Web.Controllers.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.csprojAssemblyReference.cache

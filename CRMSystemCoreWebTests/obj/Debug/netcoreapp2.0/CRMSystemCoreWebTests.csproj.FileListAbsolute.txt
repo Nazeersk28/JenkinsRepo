@@ -1,107 +1,144 @@
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.deps.json
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.runtimeconfig.json
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.runtimeconfig.dev.json
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.csprojResolveAssemblyReference.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.csproj.CoreCompileInputs.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.AssemblyInfoInputs.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.AssemblyInfo.cs
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.deps.json
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.runtimeconfig.json
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.runtimeconfig.dev.json
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.xml
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.xml
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.csprojResolveAssemblyReference.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.csproj.CoreCompileInputs.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.AssemblyInfoInputs.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.AssemblyInfo.cs
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.deps.json
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.runtimeconfig.json
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.runtimeconfig.dev.json
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWebTests.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\CRMSystemCoreWeb.xml
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Impl.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Business.Interfaces.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Impl.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Impl.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Repositories.Interfaces.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Impl.xml
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.csprojAssemblyReference.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.csproj.CoreCompileInputs.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.AssemblyInfoInputs.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.AssemblyInfo.cs
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.csproj.CopyComplete
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\CRMSystemCoreWebTests\obj\Debug\netcoreapp2.0\CRMSystemCoreWebTests.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.deps.json
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.runtimeconfig.json
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.runtimeconfig.dev.json
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Impl.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Impl.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csprojResolveAssemblyReference.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csproj.CoreCompileInputs.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.AssemblyInfoInputs.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.AssemblyInfo.cs
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.deps.json
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.runtimeconfig.json
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.runtimeconfig.dev.json
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Impl.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.xml
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Impl.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.xml
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csprojResolveAssemblyReference.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csproj.CoreCompileInputs.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.AssemblyInfoInputs.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.AssemblyInfo.cs
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.deps.json
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.runtimeconfig.json
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.runtimeconfig.dev.json
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Impl.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.xml
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Impl.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.xml
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csprojAssemblyReference.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csproj.CoreCompileInputs.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.AssemblyInfoInputs.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.AssemblyInfo.cs
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csproj.CopyComplete
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netcoreapp10.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/xunit.runner.utility.netcoreapp10.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.xml
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.deps.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.runtimeconfig.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.runtimeconfig.dev.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWebTests.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Impl.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/CRMSystemCoreWeb.xml
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Impl.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Business.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Impl.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Repositories.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Impl.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Web.Controllers.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csprojAssemblyReference.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csproj.CoreCompileInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.AssemblyInfoInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.AssemblyInfo.cs
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.csproj.CopyComplete
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/CRMSystemCoreWebTests/obj/Debug/netcoreapp2.0/CRMSystemCoreWebTests.pdb

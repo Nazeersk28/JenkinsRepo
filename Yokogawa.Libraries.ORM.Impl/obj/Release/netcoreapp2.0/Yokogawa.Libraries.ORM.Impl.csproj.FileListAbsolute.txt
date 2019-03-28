@@ -1,0 +1,14 @@
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.deps.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.csprojAssemblyReference.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.csproj.CoreCompileInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.AssemblyInfoInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.AssemblyInfo.cs
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.csproj.CopyComplete
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Impl/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Impl.pdb

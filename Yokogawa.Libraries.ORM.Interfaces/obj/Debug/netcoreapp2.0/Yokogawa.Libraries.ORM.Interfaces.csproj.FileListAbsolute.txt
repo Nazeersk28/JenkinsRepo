@@ -1,34 +1,46 @@
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.deps.json
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.csprojResolveAssemblyReference.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.deps.json
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.csprojResolveAssemblyReference.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.deps.json
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.csprojAssemblyReference.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.csproj.CopyComplete
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.ORM.Interfaces\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.ORM.Interfaces.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.deps.json
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csprojResolveAssemblyReference.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.deps.json
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csprojResolveAssemblyReference.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.deps.json
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csprojAssemblyReference.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CopyComplete
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.deps.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csprojAssemblyReference.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CopyComplete
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb

@@ -1,26 +1,35 @@
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.deps.json
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.AssemblyInfo.cs
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Deep Dive - Batch 1\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.csprojResolveAssemblyReference.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.deps.json
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.AssemblyInfo.cs
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-D:\Practices\Core\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.csprojResolveAssemblyReference.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.deps.json
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\bin\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.AssemblyInfo.cs
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.dll
-C:\DevOps\K8S\Demonstrations\ProfessionalCaseStudyCoreSolution\Yokogawa.Libraries.Models\obj\Debug\netcoreapp2.0\Yokogawa.Libraries.Models.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.deps.json
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfo.cs
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Deep Dive - Batch 1/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.csprojResolveAssemblyReference.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.deps.json
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfo.cs
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+D:/Practices/Core/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.csprojResolveAssemblyReference.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.deps.json
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfo.cs
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+C:/DevOps/K8S/Demonstrations/ProfessionalCaseStudyCoreSolution/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.deps.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/bin/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.csprojAssemblyReference.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.csproj.CoreCompileInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfoInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.AssemblyInfo.cs
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.Models/obj/Debug/netcoreapp2.0/Yokogawa.Libraries.Models.pdb

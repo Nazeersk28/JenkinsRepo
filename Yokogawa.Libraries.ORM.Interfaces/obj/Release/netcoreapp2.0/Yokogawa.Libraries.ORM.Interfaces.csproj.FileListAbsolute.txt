@@ -1,0 +1,12 @@
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.deps.json
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/bin/Release/netcoreapp2.0/Yokogawa.Libraries.Models.pdb
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csprojAssemblyReference.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CoreCompileInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfoInputs.cache
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.AssemblyInfo.cs
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.csproj.CopyComplete
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.dll
+/home/ubuntu/netcorepractices/cgiprofessionalnetcoreservices/Yokogawa.Libraries.ORM.Interfaces/obj/Release/netcoreapp2.0/Yokogawa.Libraries.ORM.Interfaces.pdb
