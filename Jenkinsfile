@@ -1,21 +1,6 @@
 pipeline {
   agent any
   stages {
-    stage('Restore and Build') {
-      steps {
-        sh 'bash ./jenkins/scripts/build.sh'
-      }
-    }
-    stage('Test') {
-      steps {
-        sh 'bash ./jenkins/scripts/test.sh'
-      }
-    }
-    stage('Publish') {
-      steps {
-        sh 'bash ./jenkins/scripts/publish.sh'
-      }
-    }
     stage('Prepare Images') {
       steps {
         sh 'sudo bash ./jenkins/scripts/prepare-image.sh'
