@@ -1,4 +1,8 @@
-node_modules
-*\**\bin
-*\**\obj
-*\**\bin\debug
+*/**/bin/Debug
+*/**/bin/Release
+*/**/obj
+*/**/obj/Debug
+*/**/obj/Release
+*/**/output
+
+.vs
