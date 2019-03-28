@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Prepare Images') {
       steps {
-        sh 'sudo bash ./jenkins/scripts/prepare-image.sh'
+        sh 'bash ./jenkins/scripts/prepare-image.sh'
       }
     }
     stage('Push Images to Hub and Clean') {
