@@ -22,6 +22,11 @@ pipeline {
         sh 'bash ./jenkins/scripts/cleanup-containers.sh'
       }
     }
+    stage('Deploy AWS') {
+      steps {
+        sh 'bash ./jenkins/scripts/aws-deploy.sh'
+      }
+    }
   }
   environment {
     CONTAINER_PORT = '9090'
