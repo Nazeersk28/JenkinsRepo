@@ -17,7 +17,7 @@ pipeline {
     stage('Run Container') {
       steps {
         sh 'bash ./jenkins/scripts/run-container.sh'
-        emailext(subject: 'Job \'${env.JOB_NAME}\' (${env.BUILD_NUMBER}) is waiting for input', body: 'Please go to ${env.BUILD_URL}.', to: 'jd.ramkumar@gmail.com')
+        emailext(subject: 'Job \'${JOB_NAME}\' (${BUILD_NUMBER}) is waiting for input', body: 'Please go to ${BUILD_URL}.', to: 'jd.ramkumar@gmail.com')
         input(message: 'Please connect the Host Url at the Port 9090 for REST Services Access. Are you able to access?', ok: 'Yes, I am able to access the service ... Continue to Next')
         sh 'bash ./jenkins/scripts/cleanup-containers.sh'
       }
