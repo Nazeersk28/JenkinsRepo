@@ -6,8 +6,6 @@ dotnet restore
 
 echo "Restore Completed Successfully ... for Build Id ${BUILD_ID}"
 
-dotnet clean
-
 dotnet build
 
 echo "Build Successfully Completed ... for Build Id ${BUILD_ID}"
