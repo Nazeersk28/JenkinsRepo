@@ -1,0 +1,23 @@
+{
+    "family": "cgiprofessionalnetcoreservices", 
+    "networkMode": "awsvpc", 
+    "containerDefinitions": [
+        {
+            "name": "restservices", 
+            "image": "iomega/cgiprofessionalnetcoreservicesjenkins:latest", 
+            "portMappings": [
+                {
+                    "containerPort": 9090, 
+                    "hostPort": 9090, 
+                    "protocol": "tcp"
+                }
+            ], 
+            "essential": true
+		}
+    ], 
+    "requiresCompatibilities": [
+        "FARGATE"
+    ], 
+    "cpu": "256", 
+    "memory": "512"
+}
