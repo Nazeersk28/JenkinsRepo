@@ -2,7 +2,7 @@
 
 set -x
 
-docker image prune
+docker image prune -f
 
 set +x
 
