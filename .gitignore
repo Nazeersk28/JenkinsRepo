@@ -6,3 +6,4 @@
 */**/outputs
 
 .vs
+.vs/**
