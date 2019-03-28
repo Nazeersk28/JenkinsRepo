@@ -2,7 +2,7 @@
 
 set -x
 
-dotnet publish CRMSystemCoreWeb --configuration Release --output outputs
+dotnet publish CRMSystemCoreWebv2 --configuration Release --output outputs
 
 echo "Publishing Completed Successfully ... for Build Id ${BUILD_ID}"
 
