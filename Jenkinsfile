@@ -16,6 +16,11 @@ pipeline {
         sh 'bash ./jenkins/scripts/push-images.sh'
       }
     }
+    stage('Run Container Local') {
+      steps {
+        sh 'bash ./jenkins/scripts/run-container.sh'
+      }
+    }
   }
   environment {
     HOME = '.'
