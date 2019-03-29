@@ -3,7 +3,7 @@ pipeline {
   stages {
     stage('Prepare Images') {
       steps {
-        sh 'bash ./jenkins/script/prepare-image.sh'
+        sh 'bash ./jenkins/scripts/prepare-image.sh'
       }
     }
   }
